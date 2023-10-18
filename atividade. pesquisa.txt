@@ -1,0 +1,27 @@
+aluno: clebio gomes da silva 
+
+                                  atividade
+
+COMMIT: e a realização permanente de um conjunto de tentativas de alteração, marcando o fim de uma transação e fornecendo durabilidade as transações ACID
+
+BRANCH e uma tamifircação do codigo-fonte que cria uma linha independente de desenvolvimento O recurso funciona como um controle de origem que permite separar a evolução da programação em diferentes subdivisões
+
+MERGE e uma operação fundamental que concilia varias alterações feitas a uma coleção de
+
+arquivos controlada por versão.
+
+MAIN LINE: é uma linha principal
+
+CLONE:  à criação de uma cópia idêntica de um objeto, variável, função ou estrutura de dados existente. Clonar um objeto é útil em muitos casos, principalmente quando você deseja preservar o estado ou comportamento de um item existente sem modificar o original. 
+
+PUSH: descreve um estilo de comunicação baseado na internet onde a requisição para uma determinada transação é iniciada pelo publicador ou servidor central
+
+PULL: quer dizer puxar (algo)
+
+ADD: quer dizer adicionar
+
+STAGED: as alterações estão prota para serem incluidas.
+
+VERSION É o processo de fechamento e publicação de arquivos em cada entrega referente a um
+
+projeto de desenvolvimento
